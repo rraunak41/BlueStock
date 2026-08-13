@@ -1,0 +1,91 @@
+company_id,company_name,broad_sector,pe_ratio,sector_median_pe,valuation_flag
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,60.44,38.01,Caution (overvalued)
+ITC,ITC Ltd,Consumer Staples,47.85,50.95,Neutral
+HINDUNILVR,Hindustan Unilever Ltd,Consumer Staples,34.51,50.95,Discount (undervalued)
+ADANIPORTS,Adani Ports & Special Economic Zone Ltd,Industrials,48.9,47.16,Neutral
+INFY,Infosys Ltd,Information Technology,35.99,63.63,Discount (undervalued)
+INDUSINDBK,IndusInd Bank Ltd,Financials,8.99,33.57,Discount (undervalued)
+HCLTECH,HCL Technologies Ltd,Information Technology,63.63,63.63,Neutral
+TRENT,Trent Ltd,Consumer Discretionary,8.65,38.01,Discount (undervalued)
+ICICIBANK,ICICI Bank Ltd,Financials,25.76,33.57,Neutral
+LODHA,Macrotech Developers Ltd,Real Estate,51.95,49.1,Neutral
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,77.64,55.62,Neutral
+LT,Larsen & Toubro Ltd,Industrials,30.8,47.16,Discount (undervalued)
+IRFC,Indian Railway Finance Corporation Ltd,Financials,9.81,33.57,Discount (undervalued)
+TITAN,Titan Company Ltd,Consumer Discretionary,10.13,38.01,Discount (undervalued)
+IOC,Indian Oil Corporation,Energy,28.61,44.57,Discount (undervalued)
+LICI,Life Insurance Corporation of India,Financials,30.67,33.57,Neutral
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,Financials,20.83,33.57,Discount (undervalued)
+HDFCBANK,HDFC Bank Ltd,Financials,49.42,33.57,Neutral
+JIOFIN,Jio Financial Services Ltd,Financials,34.24,33.57,Neutral
+KOTAKBANK,Kotak Mahindra Bank Ltd,Financials,32.9,33.57,Neutral
+ADANIGREEN,Adani Green Energy Ltd,Energy,45.26,44.57,Neutral
+HINDALCO,Hindalco Industries Ltd,Materials,56.45,55.62,Neutral
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,49.0,33.57,Neutral
+ADANIENT,Adani Enterprises Ltd,Industrials,58.87,47.16,Neutral
+JSWENERGY,JSW Energy Ltd,Energy,24.79,44.57,Discount (undervalued)
+HDFCLIFE,HDFC Life Insurance Company Ltd,Financials,50.59,33.57,Caution (overvalued)
+JSWSTEEL,JSW Steel Ltd,Materials,69.27,55.62,Neutral
+HEROMOTOCO,Hero MotoCorp Ltd,Consumer Discretionary,53.86,38.01,Neutral
+TVSMOTOR,TVS Motor Company Ltd,Consumer Discretionary,46.1,38.01,Neutral
+ABB,Abbott India Ltd,Industrials,75.58,47.16,Caution (overvalued)
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,46.4,47.06,Neutral
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,58.5,44.57,Neutral
+SHRIRAMFIN,Shriram Finance Ltd,Financials,68.53,33.57,Caution (overvalued)
+HAL,Hindustan Aeronautics Ltd,Industrials,71.89,47.16,Caution (overvalued)
+TATAMOTORS,Tata Motors Ltd,Consumer Discretionary,67.07,38.01,Caution (overvalued)
+PFC,Power Finance Corporation Ltd,Financials,35.6,33.57,Neutral
+CIPLA,Cipla Ltd,Healthcare,59.75,47.06,Neutral
+AXISBANK,Axis Bank Ltd,Financials,38.14,33.57,Neutral
+PIDILITIND,Pidilite Industries Ltd,Materials,36.12,55.62,Discount (undervalued)
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,Financials,16.79,33.57,Discount (undervalued)
+PNB,Punjab National Bank,Financials,19.29,33.57,Discount (undervalued)
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,15.07,33.57,Discount (undervalued)
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,54.79,50.95,Neutral
+CANBK,Canara Bank,Financials,36.74,33.57,Neutral
+POWERGRID,Power Grid Corporation of India Ltd,Energy,64.39,44.57,Neutral
+COALINDIA,Coal India Ltd,Materials,34.27,55.62,Discount (undervalued)
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,63.91,50.95,Neutral
+RECLTD,REC Ltd,Financials,31.49,33.57,Neutral
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,37.73,33.57,Neutral
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,Healthcare,37.9,47.06,Neutral
+BOSCHLTD,Bosch Ltd,Consumer Discretionary,58.43,38.01,Caution (overvalued)
+RELIANCE,Reliance Industries Ltd,Energy,58.34,44.57,Neutral
+BHEL,Bharat Heavy Electricals Limited,Industrials,29.8,47.16,Discount (undervalued)
+SBILIFE,SBI Life Insurance Company Ltd,Financials,69.98,33.57,Caution (overvalued)
+BAJFINANCE,Bajaj Finance Ltd,Financials,69.2,33.57,Caution (overvalued)
+BEL,Bharat Electronics Ltd,Industrials,17.89,47.16,Discount (undervalued)
+SHREECEM,Shree Cement Ltd,Materials,25.87,55.62,Discount (undervalued)
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,63.78,48.33,Neutral
+BPCL,Bharat Petroleum Corporation Ltd,Energy,68.15,44.57,Caution (overvalued)
+HAVELLS,Havells India Ltd,Industrials,45.41,47.16,Neutral
+ONGC,Oil & Natural Gas Corpn Ltd,Energy,18.15,44.57,Discount (undervalued)
+DABUR,Dabur India Ltd,Consumer Staples,50.95,50.95,Neutral
+TECHM,Tech Mahindra Ltd,Information Technology,57.4,63.63,Neutral
+LTIM,LTIMindtree Ltd,Information Technology,64.52,63.63,Neutral
+GRASIM,Grasim Industries Ltd,Industrials,79.35,47.16,Caution (overvalued)
+ADANIPOWER,Adani Power Ltd,Energy,44.57,44.57,Neutral
+M&M,Mahindra & Mahindra Ltd,Consumer Discretionary,14.22,38.01,Discount (undervalued)
+AMBUJACEM,Ambuja Cements Ltd,Materials,55.62,55.62,Neutral
+GODREJCP,Godrej Consumer Products Ltd,Consumer Staples,33.59,50.95,Discount (undervalued)
+TCS,Tata Consultancy Services Ltd,Information Technology,78.69,63.63,Neutral
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,20.78,38.01,Discount (undervalued)
+GAIL,GAIL (India) Ltd,Energy,25.84,44.57,Discount (undervalued)
+BANKBARODA,Bank of Baroda,Financials,16.89,33.57,Discount (undervalued)
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,29.91,38.01,Neutral
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,9.54,38.01,Discount (undervalued)
+APOLLOHOSP,Apollo Hospitals Chain of Indian private hospitals,Healthcare,47.72,47.06,Neutral
+NAUKRI,Info Edge (India) Ltd,Communication Services,32.88,48.33,Discount (undervalued)
+TATASTEEL,Tata Steel Ltd,Materials,48.97,55.62,Neutral
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.73,47.06,Discount (undervalued)
+NESTLEIND,Nestle India Ltd,Consumer Staples,54.96,50.95,Neutral
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,72.53,38.01,Caution (overvalued)
+ASIANPAINT,Asian Paints Indian Multi-National Paint and Coating Manufacturing Company,Materials,73.37,55.62,Neutral
+NHPC,NHPC Ltd,Energy,71.17,44.57,Caution (overvalued)
+DLF,DLF Ltd,Real Estate,46.26,49.1,Neutral
+TATAPOWER,Tata Power Company Ltd,Energy,14.5,44.57,Discount (undervalued)
+DIVISLAB,Divis Laboratories Ltd,Healthcare,69.95,47.06,Neutral
+NTPC,NTPC Ltd,Energy,30.8,44.57,Discount (undervalued)
+EICHERMOT,Eicher Motors Ltd,Consumer Discretionary,15.62,38.01,Discount (undervalued)
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,76.23,38.01,Caution (overvalued)
+SIEMENS,Siemens Ltd,Industrials,33.32,47.16,Neutral

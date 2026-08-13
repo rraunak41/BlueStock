@@ -1,0 +1,106 @@
+-- Nifty 100 Financial Intelligence Platform — Exploratory SQL Queries (Sprint 1 equivalent)
+------------------------------------------------------------
+ERROR: 'NoneType' object is not iterable
+
+-- 1. Row counts per table
+------------------------------------------------------------
+tbl | rows
+companies | 92
+profitandloss | 1070
+balancesheet | 1140
+cashflow | 1056
+documents | 1457
+sectors | 92
+stock_prices | 5520
+market_cap | 552
+...(10 rows total)
+
+-- 2. Years of P&L history per company (coverage check)
+------------------------------------------------------------
+company_id | years_of_history
+JIOFIN | 2
+LICI | 6
+ATGL | 7
+ADANIGREEN | 8
+BAJFINANCE | 10
+IRCTC | 10
+ADANIENSOL | 11
+AMBUJACEM | 11
+...(15 rows total)
+
+-- 3. Null counts in key P&L fields
+------------------------------------------------------------
+null_sales | null_net_profit | null_eps
+0 | 0 | 4
+...(1 rows total)
+
+-- 4. Companies per broad sector
+------------------------------------------------------------
+broad_sector | num_companies
+Financials | 23
+Energy | 14
+Consumer Discretionary | 14
+Industrials | 10
+Materials | 9
+Consumer Staples | 7
+Healthcare | 6
+Information Technology | 5
+...(10 rows total)
+
+-- 5. Distinct year range per time-series table
+------------------------------------------------------------
+tbl | min_year | max_year
+profitandloss | 2011-03 | 2024-09
+balancesheet | 2011-03 | 2024-09
+cashflow | 2011-09 | 2024-09
+...(3 rows total)
+
+-- 6. Companies with fewer than 10 years of P&L history
+------------------------------------------------------------
+company_id | yrs
+JIOFIN | 2
+LICI | 6
+ATGL | 7
+ADANIGREEN | 8
+...(4 rows total)
+
+-- 7. Debt-free companies (latest year)
+------------------------------------------------------------
+company_id | year | debt_to_equity
+JIOFIN | 2024-03 | 0.0
+LICI | 2024-03 | 0.0
+SBILIFE | 2024-03 | 0.0
+...(3 rows total)
+
+-- 8. Top 10 companies by latest-year ROE
+------------------------------------------------------------
+company_id | company_name | return_on_equity_pct
+BEL | Bharat Electronics Ltd | 4744.047619047619
+HAL | Hindustan Aeronautics Ltd | 3816.5829145728644
+INDIGO | Interglobe Aviation Ltd | 892.568306010929
+NESTLEIND | Nestle India Ltd | 117.75449101796407
+LT | Larsen & Toubro Ltd | 77.66510140873214
+PNB | Punjab National Bank | 61.320565191187306
+BRITANNIA | Britannia Industries Ltd | 54.14869322506978
+TCS | Tata Consultancy Services Ltd | 50.944313673485176
+...(10 rows total)
+
+-- 9. Peer group member counts
+------------------------------------------------------------
+peer_group_name | members
+Power & Utilities | 7
+FMCG | 7
+Automobiles | 7
+Private Banks | 5
+Pharmaceuticals | 5
+Oil & Gas | 5
+IT Services | 5
+Steel | 4
+...(11 rows total)
+
+-- 10. Companies missing annual report documents
+------------------------------------------------------------
+id | company_name | report_count
+DIVISLAB | Divis Laboratories Ltd | 0
+...(1 rows total)
+

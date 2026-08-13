@@ -1,0 +1,1169 @@
+rule_id,rule_name,severity,company_id,year,field,issue
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2013,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2014,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2015,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2016,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2017,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2018,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2019,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2020,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2021,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2022,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2023,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2024,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,TTM,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2013,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2014,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2015,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2016,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2017,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2018,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2019,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2020,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2021,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2022,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2023,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,Mar 2024,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ADANIPORTS,TTM,"profitandloss.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Sep 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ASIANPAINT,Sep 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,PNB,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Sep 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,POWERGRID,Sep 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Sep 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2013,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2014,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2015,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2016,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2017,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2018,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2019,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2020,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2021,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2022,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2023,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Mar 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,TECHM,Sep 2024,"balancesheet.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2014,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2015,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2016,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2017,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2018,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2019,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2020,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2021,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2022,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2023,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2024,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2014,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2015,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2016,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2017,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2018,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2019,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2020,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2021,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2022,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2023,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,ABB,Mar 2024,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2013,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2014,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2015,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2016,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2017,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2018,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2019,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2020,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2021,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2022,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2023,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2024,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2013,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2014,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2015,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2016,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2017,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2018,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2019,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2020,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2021,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2022,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2023,"cashflow.(company_id,year)",Duplicate annual record
+DQ-02,Annual PK Uniqueness,CRITICAL,BAJAJ-AUTO,Mar 2024,"cashflow.(company_id,year)",Duplicate annual record
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,profitandloss.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,balancesheet.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,AGTL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,cashflow.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNITDSPR,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VBL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,VEDL,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZOMATO,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ZYDUSLIFE,,documents.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,analysis.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,analysis.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,analysis.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,analysis.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,prosandcons.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,WIPRO,,prosandcons.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,ULTRACEMCO,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-03,FK Integrity,CRITICAL,UNIONBANK,,financial_ratios.company_id,Orphan row — FK not in companies.id
+DQ-05,OPM Cross-Check,WARNING,ADANIENSOL,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,AXISBANK,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BAJFINANCE,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,BANKBARODA,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CANBK,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CHOLAFIN,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,CIPLA,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,COALINDIA,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCBANK,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HDFCLIFE,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HEROMOTOCO,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDALCO,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,HINDUNILVR,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIBANK,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIGI,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,ICICIPRULI,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDUSINDBK,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,JIOFIN,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,KOTAKBANK,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,SUNPHARMA,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2013,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2014,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2015,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2016,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2017,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2018,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2019,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2020,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2021,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2022,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2023,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,Mar 2024,opm_percentage,Source OPM diverges >1% from computed
+DQ-05,OPM Cross-Check,WARNING,INDIGO,TTM,opm_percentage,Source OPM diverges >1% from computed
+DQ-06,Positive Sales,WARNING,ADANIENSOL,Mar 2014,sales,Sales <= 0
+DQ-07,Year Format,CRITICAL,ABB,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ADANIENSOL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ADANIENT,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ADANIGREEN,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ADANIPORTS,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ADANIPORTS,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ADANIPOWER,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,AMBUJACEM,Mar 2023 15,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,AMBUJACEM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,APOLLOHOSP,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ASIANPAINT,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ATGL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BAJAJ-AUTO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,AXISBANK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BAJAJFINSV,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BAJAJHLDNG,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BAJFINANCE,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BANKBARODA,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BHARTIARTL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BEL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BHEL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BOSCHLTD,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BPCL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,BRITANNIA,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,CANBK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,CHOLAFIN,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,CIPLA,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,COALINDIA,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,DABUR,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,DIVISLAB,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,DLF,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,DMART,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,DRREDDY,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,EICHERMOT,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,GAIL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,GODREJCP,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,GRASIM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HAL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HAVELLS,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HCLTECH,Mar 2016 9m,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HCLTECH,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HDFCBANK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HDFCLIFE,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HEROMOTOCO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HINDALCO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,HINDUNILVR,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ICICIBANK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ICICIGI,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ICICIPRULI,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,INDUSINDBK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,INFY,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,IOC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,IRCTC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,IRFC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ITC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,JINDALSTEL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,JIOFIN,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,JSWENERGY,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,JSWSTEEL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,KOTAKBANK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,LICI,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,LODHA,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,LT,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,LTIM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,M&M,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,MARUTI,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,MOTHERSON,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,NAUKRI,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,NESTLEIND,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,NHPC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,NTPC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ONGC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,PFC,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,PIDILITIND,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,PNB,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,POWERGRID,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,RECLTD,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,RELIANCE,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,SBILIFE,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,SBIN,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,SHREECEM,Mar 2016 9m,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,SHREECEM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,SHRIRAMFIN,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,SUNPHARMA,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TATACONSUM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TATAMOTORS,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TATAPOWER,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TATASTEEL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TCS,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TECHM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TITAN,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TORNTPHARM,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TRENT,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,TVSMOTOR,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ULTRACEMCO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,UNIONBANK,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,UNITDSPR,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,VBL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,VEDL,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,WIPRO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ZOMATO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ZYDUSLIFE,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,INDIGO,TTM,profitandloss.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ZYDUSLIFE,2024.5,balancesheet.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,ZOMATO,2024.5,balancesheet.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,WIPRO,2024.5,balancesheet.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,VEDL,2024.5,balancesheet.year,Unparseable year value
+DQ-07,Year Format,CRITICAL,UNITDSPR,2024.5,balancesheet.year,Unparseable year value
+DQ-09,Net Cash Check,WARNING,TVSMOTOR,Mar 2022,net_cash_flow,Mismatch vs CFO+CFI+CFF > 10 Cr tolerance
+DQ-11,Tax Rate Range,WARNING,ADANIENT,Mar 2014,tax_percentage,Out of range: -64.0
+DQ-11,Tax Rate Range,WARNING,ADANIGREEN,Mar 2017,tax_percentage,Out of range: -75.0
+DQ-11,Tax Rate Range,WARNING,ADANIGREEN,Mar 2018,tax_percentage,Out of range: -35.0
+DQ-11,Tax Rate Range,WARNING,ADANIGREEN,Mar 2019,tax_percentage,Out of range: -19.0
+DQ-11,Tax Rate Range,WARNING,ADANIPOWER,Mar 2014,tax_percentage,Out of range: -79.0
+DQ-11,Tax Rate Range,WARNING,ADANIPOWER,Mar 2016,tax_percentage,Out of range: -47.0
+DQ-11,Tax Rate Range,WARNING,ADANIPOWER,Mar 2017,tax_percentage,Out of range: -1.0
+DQ-11,Tax Rate Range,WARNING,ADANIPOWER,Mar 2023,tax_percentage,Out of range: -40.0
+DQ-11,Tax Rate Range,WARNING,AMBUJACEM,Dec 2018,tax_percentage,Out of range: -2.0
+DQ-11,Tax Rate Range,WARNING,APOLLOHOSP,Mar 2018,tax_percentage,Out of range: 65.0
+DQ-11,Tax Rate Range,WARNING,AXISBANK,Mar 2018,tax_percentage,Out of range: -99.0
+DQ-11,Tax Rate Range,WARNING,AXISBANK,Mar 2020,tax_percentage,Out of range: 67.0
+DQ-11,Tax Rate Range,WARNING,BANKBARODA,Mar 2016,tax_percentage,Out of range: -19.0
+DQ-11,Tax Rate Range,WARNING,BANKBARODA,Mar 2018,tax_percentage,Out of range: -9.0
+DQ-11,Tax Rate Range,WARNING,BANKBARODA,Mar 2020,tax_percentage,Out of range: -99.0
+DQ-11,Tax Rate Range,WARNING,BANKBARODA,Mar 2021,tax_percentage,Out of range: 77.0
+DQ-11,Tax Rate Range,WARNING,BHARTIARTL,Mar 2014,tax_percentage,Out of range: 62.0
+DQ-11,Tax Rate Range,WARNING,BHARTIARTL,Mar 2019,tax_percentage,Out of range: -99.0
+DQ-11,Tax Rate Range,WARNING,BHARTIARTL,Mar 2020,tax_percentage,Out of range: -28.0
+DQ-11,Tax Rate Range,WARNING,BHARTIARTL,Mar 2021,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,BHEL,Mar 2016,tax_percentage,Out of range: -39.0
+DQ-11,Tax Rate Range,WARNING,BHEL,Mar 2018,tax_percentage,Out of range: 64.0
+DQ-11,Tax Rate Range,WARNING,BHEL,Mar 2020,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,BHEL,Mar 2021,tax_percentage,Out of range: -25.0
+DQ-11,Tax Rate Range,WARNING,BHEL,Mar 2024,tax_percentage,Out of range: -16.0
+DQ-11,Tax Rate Range,WARNING,CANBK,Mar 2016,tax_percentage,Out of range: -13.0
+DQ-11,Tax Rate Range,WARNING,CANBK,Mar 2018,tax_percentage,Out of range: -36.0
+DQ-11,Tax Rate Range,WARNING,CANBK,Mar 2019,tax_percentage,Out of range: -99.0
+DQ-11,Tax Rate Range,WARNING,DLF,Mar 2014,tax_percentage,Out of range: -16.0
+DQ-11,Tax Rate Range,WARNING,DLF,Mar 2020,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,DRREDDY,Mar 2020,tax_percentage,Out of range: -7.0
+DQ-11,Tax Rate Range,WARNING,GODREJCP,Mar 2019,tax_percentage,Out of range: -12.0
+DQ-11,Tax Rate Range,WARNING,GODREJCP,Mar 2024,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,GRASIM,Mar 2020,tax_percentage,Out of range: -1.0
+DQ-11,Tax Rate Range,WARNING,HDFCLIFE,Mar 2024,tax_percentage,Out of range: -61.0
+DQ-11,Tax Rate Range,WARNING,HINDALCO,Mar 2015,tax_percentage,Out of range: 75.0
+DQ-11,Tax Rate Range,WARNING,HINDALCO,Mar 2016,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,IOC,Mar 2020,tax_percentage,Out of range: -74.0
+DQ-11,Tax Rate Range,WARNING,IRFC,Mar 2013,tax_percentage,Out of range: 64.0
+DQ-11,Tax Rate Range,WARNING,JINDALSTEL,Mar 2015,tax_percentage,Out of range: -6.0
+DQ-11,Tax Rate Range,WARNING,JINDALSTEL,Mar 2016,tax_percentage,Out of range: -22.0
+DQ-11,Tax Rate Range,WARNING,JINDALSTEL,Mar 2017,tax_percentage,Out of range: -17.0
+DQ-11,Tax Rate Range,WARNING,JINDALSTEL,Mar 2018,tax_percentage,Out of range: -13.0
+DQ-11,Tax Rate Range,WARNING,JINDALSTEL,Mar 2019,tax_percentage,Out of range: -14.0
+DQ-11,Tax Rate Range,WARNING,JSWENERGY,Mar 2018,tax_percentage,Out of range: 75.0
+DQ-11,Tax Rate Range,WARNING,JSWSTEEL,Mar 2014,tax_percentage,Out of range: 70.0
+DQ-11,Tax Rate Range,WARNING,JSWSTEEL,Mar 2016,tax_percentage,Out of range: -80.0
+DQ-11,Tax Rate Range,WARNING,JSWSTEEL,Mar 2020,tax_percentage,Out of range: -30.0
+DQ-11,Tax Rate Range,WARNING,LICI,Mar 2019,tax_percentage,Out of range: 68.0
+DQ-11,Tax Rate Range,WARNING,LICI,Mar 2020,tax_percentage,Out of range: 80.0
+DQ-11,Tax Rate Range,WARNING,LICI,Mar 2021,tax_percentage,Out of range: 76.0
+DQ-11,Tax Rate Range,WARNING,LICI,Mar 2022,tax_percentage,Out of range: 66.0
+DQ-11,Tax Rate Range,WARNING,LODHA,Mar 2021,tax_percentage,Out of range: -44.0
+DQ-11,Tax Rate Range,WARNING,LODHA,Mar 2023,tax_percentage,Out of range: -8.0
+DQ-11,Tax Rate Range,WARNING,M&M,Mar 2020,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,MOTHERSON,Mar 2020,tax_percentage,Out of range: -5.0
+DQ-11,Tax Rate Range,WARNING,NAUKRI,Mar 2015,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,NAUKRI,Mar 2017,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,NAUKRI,Mar 2020,tax_percentage,Out of range: 95.0
+DQ-11,Tax Rate Range,WARNING,NAUKRI,Mar 2023,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,NHPC,Mar 2020,tax_percentage,Out of range: -2.0
+DQ-11,Tax Rate Range,WARNING,NHPC,Mar 2022,tax_percentage,Out of range: -17.0
+DQ-11,Tax Rate Range,WARNING,NTPC,Mar 2016,tax_percentage,Out of range: -2.0
+DQ-11,Tax Rate Range,WARNING,NTPC,Mar 2019,tax_percentage,Out of range: -25.0
+DQ-11,Tax Rate Range,WARNING,PNB,Mar 2016,tax_percentage,Out of range: -31.0
+DQ-11,Tax Rate Range,WARNING,PNB,Mar 2018,tax_percentage,Out of range: -37.0
+DQ-11,Tax Rate Range,WARNING,PNB,Mar 2019,tax_percentage,Out of range: -35.0
+DQ-11,Tax Rate Range,WARNING,POWERGRID,Mar 2019,tax_percentage,Out of range: -10.0
+DQ-11,Tax Rate Range,WARNING,SBIN,Mar 2017,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,SBIN,Mar 2018,tax_percentage,Out of range: -66.0
+DQ-11,Tax Rate Range,WARNING,SHREECEM,Jun 2015,tax_percentage,Out of range: -6.0
+DQ-11,Tax Rate Range,WARNING,TATACONSUM,Mar 2016,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TATAMOTORS,Mar 2019,tax_percentage,Out of range: -8.0
+DQ-11,Tax Rate Range,WARNING,TATAMOTORS,Mar 2024,tax_percentage,Out of range: -14.0
+DQ-11,Tax Rate Range,WARNING,TATAPOWER,Mar 2013,tax_percentage,Out of range: 92.0
+DQ-11,Tax Rate Range,WARNING,TATAPOWER,Mar 2014,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TATAPOWER,Mar 2015,tax_percentage,Out of range: 72.0
+DQ-11,Tax Rate Range,WARNING,TATASTEEL,Mar 2013,tax_percentage,Out of range: 78.0
+DQ-11,Tax Rate Range,WARNING,TATASTEEL,Mar 2015,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TATASTEEL,Mar 2016,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TATASTEEL,Mar 2017,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TATASTEEL,Mar 2020,tax_percentage,Out of range: -99.0
+DQ-11,Tax Rate Range,WARNING,TATASTEEL,Mar 2024,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TRENT,Mar 2013,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TRENT,Mar 2014,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,TRENT,Mar 2021,tax_percentage,Out of range: -12.0
+DQ-11,Tax Rate Range,WARNING,TRENT,Mar 2022,tax_percentage,Out of range: 69.0
+DQ-11,Tax Rate Range,WARNING,ULTRACEMCO,Mar 2020,tax_percentage,Out of range: -11.0
+DQ-11,Tax Rate Range,WARNING,UNIONBANK,Mar 2017,tax_percentage,Out of range: -58.0
+DQ-11,Tax Rate Range,WARNING,UNIONBANK,Mar 2018,tax_percentage,Out of range: -21.0
+DQ-11,Tax Rate Range,WARNING,UNIONBANK,Mar 2019,tax_percentage,Out of range: -25.0
+DQ-11,Tax Rate Range,WARNING,UNIONBANK,Mar 2020,tax_percentage,Out of range: -27.0
+DQ-11,Tax Rate Range,WARNING,UNIONBANK,Mar 2021,tax_percentage,Out of range: -22.0
+DQ-11,Tax Rate Range,WARNING,UNITDSPR,Mar 2013,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,UNITDSPR,Mar 2016,tax_percentage,Out of range: 61.0
+DQ-11,Tax Rate Range,WARNING,VBL,Dec 2012,tax_percentage,Out of range: -20.0
+DQ-11,Tax Rate Range,WARNING,VBL,Dec 2013,tax_percentage,Out of range: -11.0
+DQ-11,Tax Rate Range,WARNING,VBL,Dec 2014,tax_percentage,Out of range: 99.0
+DQ-11,Tax Rate Range,WARNING,VEDL,Mar 2013,tax_percentage,Out of range: -25.0
+DQ-11,Tax Rate Range,WARNING,VEDL,Mar 2014,tax_percentage,Out of range: -9.0
+DQ-11,Tax Rate Range,WARNING,VEDL,Mar 2016,tax_percentage,Out of range: -37.0
+DQ-11,Tax Rate Range,WARNING,VEDL,Mar 2020,tax_percentage,Out of range: -43.0
+DQ-11,Tax Rate Range,WARNING,VEDL,Mar 2024,tax_percentage,Out of range: 63.0
+DQ-11,Tax Rate Range,WARNING,ZOMATO,Mar 2023,tax_percentage,Out of range: -4.0
+DQ-11,Tax Rate Range,WARNING,ZOMATO,Mar 2024,tax_percentage,Out of range: -21.0
+DQ-11,Tax Rate Range,WARNING,INDIGO,Mar 2019,tax_percentage,Out of range: -99.0
+DQ-11,Tax Rate Range,WARNING,INDIGO,Mar 2020,tax_percentage,Out of range: -10.0
+DQ-11,Tax Rate Range,WARNING,INDIGO,Mar 2024,tax_percentage,Out of range: -2.0
+DQ-12,Dividend Payout Cap,WARNING,BHARTIARTL,Mar 2019,dividend_payout,>200%: 244.0
+DQ-12,Dividend Payout Cap,WARNING,BRITANNIA,Mar 2021,dividend_payout,>200%: 204.0
+DQ-12,Dividend Payout Cap,WARNING,M&M,Mar 2020,dividend_payout,>200%: 205.0
+DQ-12,Dividend Payout Cap,WARNING,SBIN,Mar 2017,dividend_payout,>200%: 859.0
+DQ-12,Dividend Payout Cap,WARNING,TATAPOWER,Mar 2015,dividend_payout,>200%: 210.0
+DQ-12,Dividend Payout Cap,WARNING,VEDL,Mar 2023,dividend_payout,>200%: 357.0
+DQ-12,Dividend Payout Cap,WARNING,VEDL,Mar 2024,dividend_payout,>200%: 259.0
+DQ-13,URL Validity,WARNING,ADANIENT,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,ADANIENT,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,ADANIENT,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BANKBARODA,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BANKBARODA,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2022,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2019,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2015,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2012,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BEL,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHARTIARTL,2021,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHARTIARTL,2018,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHARTIARTL,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHARTIARTL,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHARTIARTL,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2015,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2014,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2013,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2012,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BHEL,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2019,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2018,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2017,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2014,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2013,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2012,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BOSCHLTD,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BPCL,2022,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BPCL,2019,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BPCL,2016,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BPCL,2015,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BPCL,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,BPCL,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,DLF,2018,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,DLF,2017,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,EICHERMOT,2019,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,HAL,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,ITC,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,ITC,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,ITC,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,JINDALSTEL,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,JINDALSTEL,2009,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,NESTLEIND,2023,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,SUNPHARMA,2011,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,SUNPHARMA,2010,Annual_Report,Missing/empty URL
+DQ-13,URL Validity,WARNING,SUNPHARMA,2009,Annual_Report,Missing/empty URL
+DQ-14,EPS Sign Consistency,WARNING,JSWENERGY,Mar 2018,eps,EPS<=0 while net_profit>0
+DQ-14,EPS Sign Consistency,WARNING,TATAPOWER,Mar 2013,eps,EPS<=0 while net_profit>0
+DQ-14,EPS Sign Consistency,WARNING,TATAPOWER,Mar 2014,eps,EPS<=0 while net_profit>0
+DQ-14,EPS Sign Consistency,WARNING,VBL,Dec 2016,eps,EPS<=0 while net_profit>0
+DQ-14,EPS Sign Consistency,WARNING,ZOMATO,Mar 2024,eps,EPS<=0 while net_profit>0
+DQ-15,Exact BS Balance (info),INFO,,,total_assets/total_liabilities,0 rows not exactly equal (informational only)
+DQ-16,Coverage Check,WARNING,JIOFIN,,profitandloss,Only 3 years of history (<5)
+DQ-16,Coverage Check,WARNING,JIOFIN,,balancesheet,Only 3 years of history (<5)
+DQ-16,Coverage Check,WARNING,JIOFIN,,cashflow,Only 2 years of history (<5)

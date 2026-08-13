@@ -1,0 +1,149 @@
+-- Bluestock Fintech | Mutual Fund Analytics Platform
+------------------------------------------------------------
+ERROR: 'NoneType' object is not iterable
+
+-- 1. Top 5 funds by AUM
+------------------------------------------------------------
+scheme_name | fund_house | aum_crore
+Mirae Asset Emerging Bluechip Fund - Regular - Growth | Mirae Asset MF | 49046.0
+Kotak Emerging Equity Fund - Regular - Growth | Kotak Mahindra MF | 47469.0
+Nippon India Small Cap Fund - Regular - Growth | Nippon India MF | 43630.0
+DSP Top 100 Equity Fund - Regular - Growth | DSP Mutual Fund | 41828.0
+UTI Mid Cap Fund - Regular - Growth | UTI Mutual Fund | 41728.0
+...(5 rows total)
+
+-- 2. Average NAV per month for a given fund (example: HDFC Top 100, amfi_code 125497)
+------------------------------------------------------------
+month | avg_nav
+2022-01 | 553.28
+2022-02 | 544.99
+2022-03 | 548.77
+2022-04 | 578.65
+2022-05 | 597.97
+2022-06 | 658.07
+2022-07 | 647.0
+2022-08 | 647.78
+2022-09 | 675.42
+2022-10 | 666.69
+...(53 rows total)
+
+-- 3. SIP inflow YoY growth (industry level)
+------------------------------------------------------------
+month | sip_inflow_crore | yoy_growth_pct
+2022-01-01 | 11517.0 | None
+2022-02-01 | 11438.0 | None
+2022-03-01 | 12328.0 | None
+2022-04-01 | 11863.0 | None
+2022-05-01 | 12286.0 | None
+2022-06-01 | 12276.0 | None
+2022-07-01 | 12140.0 | None
+2022-08-01 | 12694.0 | None
+2022-09-01 | 12976.0 | None
+2022-10-01 | 13040.0 | None
+...(48 rows total)
+
+-- 4. Transactions by state
+------------------------------------------------------------
+state | num_transactions | total_amount_inr
+Punjab | 2965 | 315780459.0
+Tamil Nadu | 2806 | 315177237.0
+Madhya Pradesh | 2931 | 308312493.0
+Rajasthan | 2577 | 298645822.0
+Gujarat | 2780 | 298358940.0
+West Bengal | 2748 | 297182514.0
+Telangana | 2718 | 290219284.0
+Delhi | 2677 | 289633404.0
+Uttar Pradesh | 2695 | 285368873.0
+Haryana | 2736 | 279634354.0
+...(12 rows total)
+
+-- 5. Funds with expense_ratio < 1%
+------------------------------------------------------------
+scheme_name | fund_house | expense_ratio_pct
+Nippon India Gilt Securities Fund - Regular - Growth | Nippon India MF | 0.55
+HDFC Short Term Debt Fund - Regular - Growth | HDFC Mutual Fund | 0.56
+Kotak Liquid Fund - Regular - Growth | Kotak Mahindra MF | 0.6
+SBI Bluechip Fund - Direct Plan - Growth | SBI Mutual Fund | 0.66
+SBI Small Cap Fund - Direct Plan - Growth | SBI Mutual Fund | 0.72
+Nippon India Large Cap Fund - Direct - Growth | Nippon India MF | 0.72
+ICICI Pru Liquid Fund - Regular - Growth | ICICI Prudential MF | 0.74
+Axis Bluechip Fund - Direct - Growth | Axis Mutual Fund | 0.75
+SBI Magnum Gilt Fund - Regular Plan - Growth | SBI Mutual Fund | 0.77
+HDFC Mid-Cap Opportunities Fund - Direct - Growth | HDFC Mutual Fund | 0.78
+...(14 rows total)
+
+-- 6. Category-wise average Sharpe ratio
+------------------------------------------------------------
+category | avg_sharpe | num_funds
+Liquid | 6.333 | 3
+Short Duration | 1.84 | 1
+Gilt | 1.425 | 2
+Value | 0.98 | 1
+Flexi Cap | 0.97 | 2
+Index | 0.93 | 1
+Large Cap | 0.928 | 14
+Large & Mid Cap | 0.91 | 1
+Index/ETF | 0.91 | 1
+Mid Cap | 0.871 | 7
+...(12 rows total)
+
+-- 7. Top 5 funds by 3-year CAGR within each risk grade
+------------------------------------------------------------
+risk_grade | scheme_name | return_3yr_pct
+High | Kotak Emerging Equity Fund - Regular - Growth | 18.23
+High | ICICI Pru Midcap Fund - Regular - Growth | 18.08
+High | DSP Midcap Fund - Regular - Growth | 17.16
+Low | ICICI Pru Liquid Fund - Regular - Growth | 7.68
+Low | HDFC Short Term Debt Fund - Regular - Growth | 7.37
+Low | Kotak Liquid Fund - Regular - Growth | 6.18
+Moderate | HDFC Top 100 Fund - Regular Plan - Growth | 14.84
+Moderate | Mirae Asset Large Cap Fund - Regular - Growth | 14.81
+Moderate | ICICI Pru Bluechip Fund - Direct - Growth | 14.41
+Moderately High | Kotak Flexicap Fund - Regular - Growth | 15.65
+...(15 rows total)
+
+-- 8. Monthly transaction volume by type (SIP / Lumpsum / Redemption)
+------------------------------------------------------------
+month | transaction_type | num_tx | total_amount
+2024-01 | Lumpsum | 492 | 125509831.0
+2024-01 | Redemption | 311 | 79503125.0
+2024-01 | SIP | 1146 | 12635349.0
+2024-02 | Lumpsum | 439 | 111404051.0
+2024-02 | Redemption | 268 | 69871989.0
+2024-02 | SIP | 1154 | 12613376.0
+2024-03 | Lumpsum | 498 | 124810113.0
+2024-03 | Redemption | 299 | 76554972.0
+2024-03 | SIP | 1177 | 12088413.0
+2024-04 | Lumpsum | 484 | 127545599.0
+...(51 rows total)
+
+-- 9. Top holding sectors by aggregate weight across all equity funds
+------------------------------------------------------------
+sector | avg_weight_pct | num_funds
+Consumer Goods | 14.18 | 9
+Diversified | 12.09 | 14
+IT | 11.39 | 27
+Utilities | 11.06 | 19
+FMCG | 10.91 | 19
+Banking | 10.87 | 30
+NBFC | 10.83 | 11
+Pharma | 10.72 | 22
+Automobile | 9.81 | 26
+Telecom | 9.71 | 15
+...(14 rows total)
+
+-- 10. AUM growth by fund house, latest quarter vs. first quarter on record
+------------------------------------------------------------
+fund_house | aum_first_qtr | aum_latest_qtr | pct_growth
+Mirae Asset MF | 105000.0 | 290000.0 | 176.2
+Nippon India MF | 270000.0 | 700000.0 | 159.3
+ICICI Prudential MF | 465000.0 | 1074000.0 | 131.0
+Kotak Mahindra MF | 270000.0 | 580000.0 | 114.8
+HDFC Mutual Fund | 435000.0 | 930000.0 | 113.8
+DSP Mutual Fund | 110000.0 | 230000.0 | 109.1
+SBI Mutual Fund | 605000.0 | 1250000.0 | 106.6
+UTI Mutual Fund | 230000.0 | 410000.0 | 78.3
+Aditya Birla Sun Life MF | 275000.0 | 460000.0 | 67.3
+Axis Mutual Fund | 240000.0 | 350000.0 | 45.8
+...(10 rows total)
+

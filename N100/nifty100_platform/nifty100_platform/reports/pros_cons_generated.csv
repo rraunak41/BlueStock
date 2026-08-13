@@ -1,0 +1,509 @@
+company_id,type,rule_triggered,text,confidence_pct
+IRCTC,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+IRCTC,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+IRCTC,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+IRCTC,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+IRCTC,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+IRCTC,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+ITC,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+ITC,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+ITC,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+ITC,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+ITC,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+ITC,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+HINDUNILVR,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+HINDUNILVR,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HINDUNILVR,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+HINDUNILVR,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+HINDUNILVR,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ADANIPORTS,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ADANIPORTS,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ADANIPORTS,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+INFY,pro,manual_curated,Company has a good return on equity (ROE) track record: 3 Years ROE 30.9%,95
+INFY,pro,manual_curated,Company has been maintaining a healthy dividend payout of 63.3%,95
+INFY,con,manual_curated,Stock is trading at 9.03 times its book value,95
+INFY,con,manual_curated,Promoter holding is low: 14.4%,95
+INFY,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+INFY,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+INFY,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+INFY,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+INFY,pro,best_in_class,Best-in-class within its peer group across multiple key metrics,70
+INDUSINDBK,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+INDUSINDBK,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+INDUSINDBK,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+INDUSINDBK,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+INDUSINDBK,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+INDUSINDBK,con,fcf_negative,Negative free cash flow in the latest reported year,70
+INDUSINDBK,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+INDUSINDBK,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+HCLTECH,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+HCLTECH,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HCLTECH,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+HCLTECH,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+HCLTECH,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+HCLTECH,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+TRENT,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+TRENT,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TRENT,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+TRENT,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+TRENT,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+TRENT,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+ICICIBANK,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ICICIBANK,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ICICIBANK,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+ICICIBANK,pro,best_in_class,Best-in-class within its peer group across multiple key metrics,70
+ICICIBANK,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+ICICIBANK,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ICICIBANK,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+LODHA,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+LODHA,con,fcf_negative,Negative free cash flow in the latest reported year,70
+LODHA,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+LODHA,con,revenue_decline,Revenue CAGR negative over 5 years — structural growth concern,70
+LODHA,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+JINDALSTEL,con,fcf_negative,Negative free cash flow in the latest reported year,70
+JINDALSTEL,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+JINDALSTEL,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+JINDALSTEL,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+JINDALSTEL,pro,fallback,Established Nifty 100 constituent with multi-year operating history,50
+LT,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+LT,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+LT,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+LT,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+LT,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+LT,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+LT,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+LT,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+IRFC,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+IRFC,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+IRFC,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+IRFC,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+IRFC,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+IRFC,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+TITAN,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+TITAN,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+TITAN,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+TITAN,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+TITAN,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+IOC,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+IOC,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+IOC,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+LICI,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+LICI,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+LICI,pro,debt_free,Debt-free balance sheet — zero leverage risk,70
+LICI,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+LICI,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+LICI,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+LICI,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+ICICIPRULI,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ICICIPRULI,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ICICIPRULI,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+ICICIPRULI,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+ICICIPRULI,con,low_roe,ROE below 8% — subdued capital efficiency,70
+ICICIPRULI,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ICICIPRULI,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+HDFCBANK,pro,manual_curated,Company is expected to give good quarter,95
+HDFCBANK,pro,manual_curated,Company has delivered good profit growth of 23.4% CAGR over last 5 years,95
+HDFCBANK,pro,manual_curated,Company has been maintaining a healthy dividend payout of 22.9%,95
+HDFCBANK,pro,manual_curated,Company's median sales growth is 16.4% of last 10 years,95
+HDFCBANK,con,manual_curated,Stock is trading at 2.76 times its book value,95
+HDFCBANK,con,manual_curated,Company has low interest coverage ratio.,95
+HDFCBANK,con,manual_curated,"Contingent liabilities of Rs.24,09,821 Cr.",95
+HDFCBANK,con,manual_curated,"Earnings include an other income of Rs.1,55,870 Cr.",95
+HDFCBANK,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+HDFCBANK,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+HDFCBANK,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+HDFCBANK,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+HDFCBANK,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+JIOFIN,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+JIOFIN,pro,debt_free,Debt-free balance sheet — zero leverage risk,70
+JIOFIN,con,low_roe,ROE below 8% — subdued capital efficiency,70
+JIOFIN,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+JIOFIN,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+KOTAKBANK,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+KOTAKBANK,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+KOTAKBANK,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+KOTAKBANK,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+KOTAKBANK,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+KOTAKBANK,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+ADANIGREEN,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ADANIGREEN,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+ADANIGREEN,con,fcf_negative,Negative free cash flow in the latest reported year,70
+ADANIGREEN,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+ADANIGREEN,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ADANIGREEN,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+HINDALCO,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HINDALCO,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+HINDALCO,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+ICICIGI,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ICICIGI,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+ICICIGI,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+ICICIGI,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ADANIENT,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ADANIENT,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ADANIENT,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+ADANIENT,con,fcf_negative,Negative free cash flow in the latest reported year,70
+ADANIENT,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ADANIENT,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+JSWENERGY,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+JSWENERGY,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+JSWENERGY,con,fcf_negative,Negative free cash flow in the latest reported year,70
+JSWENERGY,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+JSWENERGY,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+HDFCLIFE,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HDFCLIFE,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+HDFCLIFE,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+HDFCLIFE,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+HDFCLIFE,con,fcf_negative,Negative free cash flow in the latest reported year,70
+HDFCLIFE,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+HDFCLIFE,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+JSWSTEEL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+JSWSTEEL,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+JSWSTEEL,con,fcf_negative,Negative free cash flow in the latest reported year,70
+JSWSTEEL,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+JSWSTEEL,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+HEROMOTOCO,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+HEROMOTOCO,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HEROMOTOCO,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+HEROMOTOCO,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+HEROMOTOCO,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+TVSMOTOR,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+TVSMOTOR,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+TVSMOTOR,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+TVSMOTOR,con,fcf_negative,Negative free cash flow in the latest reported year,70
+TVSMOTOR,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+TVSMOTOR,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+ABB,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+ABB,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ABB,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+ABB,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+ABB,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+ABB,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+ABB,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+ABB,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+TORNTPHARM,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+TORNTPHARM,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TORNTPHARM,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+TORNTPHARM,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+TORNTPHARM,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+TORNTPHARM,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+TORNTPHARM,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+ADANIENSOL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ADANIENSOL,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ADANIENSOL,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+ADANIENSOL,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ADANIENSOL,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+SHRIRAMFIN,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+SHRIRAMFIN,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+SHRIRAMFIN,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+SHRIRAMFIN,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+SHRIRAMFIN,con,fcf_negative,Negative free cash flow in the latest reported year,70
+SHRIRAMFIN,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+SHRIRAMFIN,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+SHRIRAMFIN,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+HAL,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+HAL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HAL,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+HAL,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+HAL,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+HAL,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+HAL,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+TATAMOTORS,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+TATAMOTORS,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TATAMOTORS,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+TATAMOTORS,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+PFC,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+PFC,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+PFC,con,fcf_negative,Negative free cash flow in the latest reported year,70
+PFC,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+PFC,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+CIPLA,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+CIPLA,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+CIPLA,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+CIPLA,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+CIPLA,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+AXISBANK,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+AXISBANK,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+AXISBANK,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+AXISBANK,con,fcf_negative,Negative free cash flow in the latest reported year,70
+AXISBANK,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+AXISBANK,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+PIDILITIND,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+PIDILITIND,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+PIDILITIND,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+PIDILITIND,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+PIDILITIND,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+CHOLAFIN,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+CHOLAFIN,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+CHOLAFIN,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+CHOLAFIN,con,fcf_negative,Negative free cash flow in the latest reported year,70
+CHOLAFIN,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+CHOLAFIN,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+CHOLAFIN,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+PNB,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+PNB,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+PNB,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+PNB,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+PNB,con,fcf_negative,Negative free cash flow in the latest reported year,70
+PNB,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+BAJAJFINSV,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+BAJAJFINSV,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+BAJAJFINSV,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+BAJAJFINSV,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+BAJAJFINSV,con,fcf_negative,Negative free cash flow in the latest reported year,70
+BAJAJFINSV,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+BAJAJFINSV,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+BAJAJFINSV,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+TATACONSUM,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TATACONSUM,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+TATACONSUM,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+TATACONSUM,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+TATACONSUM,con,low_roe,ROE below 8% — subdued capital efficiency,70
+TATACONSUM,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+TATACONSUM,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+CANBK,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+CANBK,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+CANBK,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+CANBK,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+CANBK,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+CANBK,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+POWERGRID,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+POWERGRID,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+POWERGRID,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+COALINDIA,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+COALINDIA,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+COALINDIA,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+COALINDIA,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+COALINDIA,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+COALINDIA,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+BRITANNIA,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+BRITANNIA,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+BRITANNIA,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+BRITANNIA,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+BRITANNIA,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+BRITANNIA,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+RECLTD,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+RECLTD,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+RECLTD,con,fcf_negative,Negative free cash flow in the latest reported year,70
+RECLTD,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+RECLTD,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BAJAJHLDNG,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+BAJAJHLDNG,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+BAJAJHLDNG,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+BAJAJHLDNG,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+BAJAJHLDNG,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+BAJAJHLDNG,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+SUNPHARMA,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+SUNPHARMA,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+SUNPHARMA,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+SUNPHARMA,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+SUNPHARMA,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+SUNPHARMA,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+BOSCHLTD,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+BOSCHLTD,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+BOSCHLTD,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+BOSCHLTD,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+BOSCHLTD,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+BOSCHLTD,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+RELIANCE,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+RELIANCE,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+BHEL,con,fcf_negative,Negative free cash flow in the latest reported year,70
+BHEL,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+BHEL,con,low_roe,ROE below 8% — subdued capital efficiency,70
+BHEL,con,revenue_decline,Revenue CAGR negative over 5 years — structural growth concern,70
+BHEL,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BHEL,pro,fallback,Established Nifty 100 constituent with multi-year operating history,50
+SBILIFE,pro,manual_curated,Company is almost debt free.,95
+SBILIFE,pro,manual_curated,Company is expected to give good quarter,95
+SBILIFE,con,manual_curated,Stock is trading at 9.11 times its book value,95
+SBILIFE,con,manual_curated,Tax rate seems low,95
+SBILIFE,con,manual_curated,Company has a low return on equity of 12.9% over last 3 years.,95
+SBILIFE,con,manual_curated,"Earnings include an other income of Rs.1,657 Cr.",95
+SBILIFE,con,manual_curated,Dividend payout has been low at 14.0% of profits over last 3 years,95
+SBILIFE,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+SBILIFE,pro,debt_free,Debt-free balance sheet — zero leverage risk,70
+SBILIFE,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+SBILIFE,con,fcf_negative,Negative free cash flow in the latest reported year,70
+SBILIFE,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+SBILIFE,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+SBILIFE,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BAJFINANCE,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+BAJFINANCE,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+BAJFINANCE,pro,best_in_class,Best-in-class within its peer group across multiple key metrics,70
+BAJFINANCE,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+BAJFINANCE,con,fcf_negative,Negative free cash flow in the latest reported year,70
+BAJFINANCE,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+BAJFINANCE,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+BAJFINANCE,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+BAJFINANCE,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BEL,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+BEL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+BEL,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+BEL,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+BEL,con,fcf_negative,Negative free cash flow in the latest reported year,70
+BEL,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+SHREECEM,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+SHREECEM,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+SHREECEM,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BHARTIARTL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+BHARTIARTL,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+BHARTIARTL,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+BHARTIARTL,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+BPCL,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+BPCL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+BPCL,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+BPCL,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+BPCL,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+BPCL,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+HAVELLS,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+HAVELLS,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+HAVELLS,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+ONGC,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ONGC,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+DABUR,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+DABUR,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+DABUR,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+TECHM,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TECHM,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+TECHM,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+TECHM,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+TECHM,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+TECHM,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+LTIM,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+LTIM,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+LTIM,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+LTIM,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+LTIM,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+LTIM,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+LTIM,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+GRASIM,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+GRASIM,con,fcf_negative,Negative free cash flow in the latest reported year,70
+GRASIM,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+GRASIM,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+GRASIM,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+ADANIPOWER,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+ADANIPOWER,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+ADANIPOWER,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+ADANIPOWER,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+ADANIPOWER,pro,best_in_class,Best-in-class within its peer group across multiple key metrics,70
+ADANIPOWER,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+M&M,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+M&M,con,fcf_negative,Negative free cash flow in the latest reported year,70
+M&M,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+M&M,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+AMBUJACEM,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+AMBUJACEM,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+AMBUJACEM,con,fcf_negative,Negative free cash flow in the latest reported year,70
+AMBUJACEM,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+AMBUJACEM,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+GODREJCP,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+GODREJCP,con,fcf_negative,Negative free cash flow in the latest reported year,70
+GODREJCP,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+GODREJCP,con,low_roe,ROE below 8% — subdued capital efficiency,70
+GODREJCP,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+GODREJCP,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+GODREJCP,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+TCS,pro,manual_curated,Company is almost debt free.,95
+TCS,pro,manual_curated,Company has a good return on equity (ROE) track record: 3 Years ROE 47.4%,95
+TCS,pro,manual_curated,Company has been maintaining a healthy dividend payout of 66.2%,95
+TCS,con,manual_curated,Stock is trading at 15.2 times its book value,95
+TCS,con,manual_curated,The company has delivered a poor sales growth of 10.5% over past five years.,95
+TCS,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+TCS,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TCS,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+TCS,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+TCS,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+TCS,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+TCS,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+MARUTI,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+MARUTI,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+MARUTI,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+GAIL,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+GAIL,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BANKBARODA,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+BANKBARODA,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+BANKBARODA,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+BANKBARODA,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+BANKBARODA,con,de_high,Elevated Debt-to-Equity above 2.0× — leverage risk,70
+BANKBARODA,con,fcf_negative,Negative free cash flow in the latest reported year,70
+BANKBARODA,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+BAJAJ-AUTO,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+BAJAJ-AUTO,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+BAJAJ-AUTO,pro,fcf_conversion_efficient,Efficient free cash flow conversion from operating profit,70
+BAJAJ-AUTO,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+BAJAJ-AUTO,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+BAJAJ-AUTO,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+MOTHERSON,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+MOTHERSON,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+APOLLOHOSP,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+APOLLOHOSP,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+APOLLOHOSP,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+APOLLOHOSP,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+NAUKRI,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+NAUKRI,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+NAUKRI,con,fcf_negative,Negative free cash flow in the latest reported year,70
+NAUKRI,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+NAUKRI,con,low_roe,ROE below 8% — subdued capital efficiency,70
+NAUKRI,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+NAUKRI,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+TATASTEEL,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TATASTEEL,con,low_roe,ROE below 8% — subdued capital efficiency,70
+TATASTEEL,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+TATASTEEL,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+DRREDDY,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+DRREDDY,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+DRREDDY,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+DRREDDY,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+DRREDDY,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+NESTLEIND,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+NESTLEIND,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+NESTLEIND,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+NESTLEIND,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+NESTLEIND,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+NESTLEIND,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+DMART,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+DMART,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+DMART,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+DMART,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+DMART,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+DMART,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+ASIANPAINT,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+ASIANPAINT,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+ASIANPAINT,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+ASIANPAINT,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+ASIANPAINT,con,fallback,No significant red flags detected against current rule set — monitor for changes,50
+NHPC,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+NHPC,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+NHPC,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+NHPC,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+NHPC,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+DLF,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+DLF,con,low_roe,ROE below 8% — subdued capital efficiency,70
+DLF,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+DLF,con,revenue_decline,Revenue CAGR negative over 5 years — structural growth concern,70
+DLF,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+TATAPOWER,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+TATAPOWER,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+TATAPOWER,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+TATAPOWER,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+DIVISLAB,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+DIVISLAB,con,watch_list,Bottom-quartile within peer group across multiple key metrics,70
+DIVISLAB,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+NTPC,pro,fcf_positive_5yr,High-quality earnings — CFO consistently exceeds PAT,70
+NTPC,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+NTPC,con,weak_health_score,Composite quality score in the bottom band of the Nifty 100 universe,70
+EICHERMOT,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+EICHERMOT,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+EICHERMOT,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+EICHERMOT,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+INDIGO,pro,roe_high,Sustained ROE above 20% — strong capital efficiency,70
+INDIGO,pro,revenue_cagr_high,Revenue CAGR above 15% over 5 years — strong growth trajectory,70
+INDIGO,pro,pat_cagr_high,Profit CAGR above 20% over 5 years — accelerating profitability,70
+INDIGO,pro,roce_high,ROCE above 20% — efficient use of total capital employed,70
+INDIGO,pro,high_quality_score,Top-quartile composite quality score across the Nifty 100 universe,70
+INDIGO,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+INDIGO,con,accrual_risk,CFO consistently below PAT — potential earnings quality concern,70
+INDIGO,con,high_pe,Trading at a premium to sector median P/E — valuation risk,70
+INDIGO,con,capex_heavy,Capital-intensive operations — high reinvestment need limits FCF,70
+SIEMENS,pro,low_leverage,Conservative leverage — low D/E supports balance-sheet resilience,70
+SIEMENS,pro,asset_light,Asset-light business model — low capital intensity supports high returns,70
+SIEMENS,con,fallback,No significant red flags detected against current rule set — monitor for changes,50

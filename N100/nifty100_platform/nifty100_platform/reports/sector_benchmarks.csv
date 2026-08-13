@@ -1,0 +1,11 @@
+broad_sector,return_on_equity_pct,return_on_capital_pct,debt_to_equity,net_profit_margin_pct,free_cash_flow_cr,revenue_cagr_5yr_pct,pe_ratio,pb_ratio,num_companies
+Financials,15.74,4.17,4.4,19.95,-2496.0,17.48,33.57,7.22,22
+Consumer Discretionary,24.2,18.19,0.05,9.71,1215.5,10.77,38.01,8.06,14
+Energy,13.23,8.92,0.84,9.66,8644.0,9.61,44.57,6.24,13
+Industrials,17.38,18.83,0.44,9.9,715.0,10.95,47.16,7.45,10
+Materials,11.55,12.14,0.13,11.8,1929.0,10.33,55.62,9.21,9
+Consumer Staples,20.07,32.64,0.14,14.6,2938.0,8.69,50.95,8.07,7
+Healthcare,15.32,18.49,0.06,17.97,1072.0,10.22,47.06,7.2,6
+Information Technology,23.01,27.05,0.09,14.29,15840.0,12.71,63.63,6.08,5
+Communication Services,6.16,7.5,1.31,14.58,13829.5,15.14,48.33,7.3,2
+Real Estate,7.9,7.12,0.28,28.72,287.5,-3.98,49.1,10.98,2

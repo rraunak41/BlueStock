@@ -1,0 +1,14 @@
+company_id,company_name,cfo_pat_5yr_avg,cfo_quality_label,capex_intensity_pct,capex_tier,fcf_cagr_5yr_pct,fcf_cagr_10yr_pct,fcf_conversion_pct,fcf_conversion_tier,deleveraging_flag,distress_flag
+AXISBANK,Axis Bank Ltd,4.97,High Quality Earnings,8.23,Capital-Intensive,,,-38.36,CapEx Heavy,False,True
+BAJAJFINSV,Bajaj Finserv Ltd,-2.99,Accrual Risk,9.93,Capital-Intensive,,,-194.77,CapEx Heavy,False,True
+BAJFINANCE,Bajaj Finance Ltd,-3.76,Accrual Risk,13.04,Capital-Intensive,,,-496.5,CapEx Heavy,False,True
+BANKBARODA,Bank of Baroda,3.47,High Quality Earnings,1.09,Asset-Light,,,-17.03,CapEx Heavy,False,True
+BHEL,Bharat Heavy Electricals Limited,-2.21,Accrual Risk,5.57,Moderate,,,-335.02,CapEx Heavy,False,True
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,-6.2,Accrual Risk,14.9,Capital-Intensive,,,-715.65,CapEx Heavy,False,True
+GRASIM,Grasim Industries Ltd,0.61,Moderate,17.65,Capital-Intensive,,,-124.41,CapEx Heavy,False,True
+M&M,Mahindra & Mahindra Ltd,3.32,High Quality Earnings,4.04,Moderate,,,-45.18,CapEx Heavy,False,True
+PFC,Power Finance Corporation Ltd,-3.03,Accrual Risk,3.73,Moderate,,,-301.52,CapEx Heavy,False,True
+PNB,Punjab National Bank,-1.22,Accrual Risk,1.38,Asset-Light,,,,Moderate,False,True
+RECLTD,REC Ltd,-3.86,Accrual Risk,3.85,Moderate,,,-124.37,CapEx Heavy,False,True
+SHRIRAMFIN,Shriram Finance Ltd,-2.61,Accrual Risk,0.71,Asset-Light,,,-298.0,CapEx Heavy,False,True
+TVSMOTOR,TVS Motor Company Ltd,-0.75,Accrual Risk,2.56,Asset-Light,,,-40.98,CapEx Heavy,False,True
